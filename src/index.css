@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
+:root {
+  --transition: all 300ms ease-in-out;
+  --dark-color: #332e29;
+  --light-color: #fff;
+  --black: #333;
+  --textColor: #c35f13;
+  --red: #c31432;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -13,7 +22,7 @@ a {
 }
 
 span {
-  color: #ffa500;
+  color: #c35f13;
 }
 
 body {
@@ -23,7 +32,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  background: #545454;
+  background: var(--light-color);
 }
 
 ul {
