@@ -11,8 +11,10 @@ const HeaderVideo = () => {
         <source src={camera} type='video/mp4' />
       </video>
       <div className='content'>
-        <h1>Welcome</h1>
-        <p>To Gravity Media Site.</p>
+        <h1>
+          Gravity <span>Media</span>
+        </h1>
+        <p>Welcome To Our Site.</p>
 
         <div>
           <Link to='/about' className='btn'>

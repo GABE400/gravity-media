@@ -12,6 +12,10 @@ a {
   color: #fff;
 }
 
+span {
+  color: #ffa500;
+}
+
 body {
   margin: 0;
   font-family: 'Outfit', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
