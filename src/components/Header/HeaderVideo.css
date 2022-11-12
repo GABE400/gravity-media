@@ -1,0 +1,48 @@
+.headerVideo {
+  width: 100%;
+  height: 100vh;
+  object-fit: contain;
+}
+
+#video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.headerVideo .content {
+  position: absolute;
+  text-align: center;
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.headerVideo .content h1 {
+  font-size: 4rem;
+  color: #fff;
+}
+
+.headerVideo p {
+  font-size: 1.8rem;
+  font-weight: 200;
+  text-transform: uppercase;
+  margin-bottom: 1.6rem;
+  color: #fff;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+}
