@@ -27,6 +27,10 @@
   font-size: 500;
 }
 
+.nav-menu a:hover {
+  color: var(--textColor);
+}
+
 .hamburger {
   display: none;
 }
