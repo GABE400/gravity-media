@@ -47,6 +47,7 @@
   width: 100%;
   height: auto;
   border-radius: 3%;
+  cursor: pointer;
 }
 
 .about_image-bg {
@@ -105,6 +106,7 @@
   font-size: 3rem;
   display: inline-block;
   transition: var(--transition);
+  cursor: pointer;
 }
 
 .container .socialMedia {
@@ -128,6 +130,7 @@
   background-color: var(--light-color);
   margin: 0px 5px;
   display: inline-block;
+  cursor: pointer;
 }
 
 .container .socialMedia li:hover {

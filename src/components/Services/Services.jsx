@@ -14,7 +14,7 @@ import { IconContext } from 'react-icons';
 
 const Services = () => {
   return (
-    <div className='servicesSection'>
+    <div className='servicesSection' id='services'>
       <div className='wrapper'>
         <h1>
           Our <span>Services</span>

@@ -32,9 +32,6 @@ const Navbar = () => {
         <li>
           <Link to='/gallery'>Gallery</Link>
         </li>
-        <li>
-          <Link to='/'>Contact</Link>
-        </li>
       </ul>
       <div className='hamburger' onClick={handleClick}>
         {click ? (

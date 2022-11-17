@@ -1,7 +1,8 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import camera from '../../assets/Videos/videoCameraShot.mp4';
+//import ModalContact from '../Modal/ModalContact';
 import './HeaderVideo.css';
+import { Link } from 'react-scroll';
 
 const HeaderVideo = () => {
   return (
@@ -17,10 +18,26 @@ const HeaderVideo = () => {
         <p>Welcome To Our Site.</p>
 
         <div>
-          <Link to='/about' className='btn'>
+          <Link
+            to='about'
+            spy={true}
+            smooth={true}
+            offset={50}
+            duration={500}
+            delay={1000}
+            className='btn'
+          >
             Get Started
           </Link>
-          <Link to='/contact' className='btn btn-light'>
+          <Link
+            to='contact'
+            spy={true}
+            smooth={true}
+            offset={50}
+            duration={500}
+            delay={1000}
+            className='btn btn-light'
+          >
             Contact Us
           </Link>
         </div>

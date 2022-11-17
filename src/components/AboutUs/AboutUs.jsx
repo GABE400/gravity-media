@@ -1,6 +1,6 @@
 import React from 'react';
 import './AboutUs.css';
-import { Link } from 'react-router-dom';
+import { Link } from 'react-scroll';
 import {
   FaChevronDown,
   FaFacebook,
@@ -13,7 +13,7 @@ import imgVid from '../../assets/Img/1.png';
 
 const AboutUs = () => {
   return (
-    <div className='aboutSection'>
+    <div className='aboutSection' id='about'>
       <div className='container'>
         <div className='title'>
           <h1>About Us</h1>
@@ -35,7 +35,15 @@ const AboutUs = () => {
               typesetting, remaining essentially unchanged.
             </p>
             <div>
-              <Link to='/' className='btn-down'>
+              <Link
+                className='btn-down'
+                to='services'
+                spy={true}
+                smooth={true}
+                offset={50}
+                duration={500}
+                delay={1000}
+              >
                 <FaChevronDown size={35} style={{ color: '#c35f13' }} />
               </Link>
             </div>
