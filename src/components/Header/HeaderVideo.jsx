@@ -1,6 +1,5 @@
 import React from 'react';
-import camera from '../../assets/Videos/videoCameraShot.mp4';
-//import ModalContact from '../Modal/ModalContact';
+import Camera from '../../assets/Videos/videoCameraShot.mp4';
 import './HeaderVideo.css';
 import { Link } from 'react-scroll';
 
@@ -9,7 +8,7 @@ const HeaderVideo = () => {
     <div className='headerVideo'>
       <div className='overlay'></div>
       <video autoPlay loop muted id='video'>
-        <source src={camera} type='video/mp4' />
+        <source src={Camera} type='video/mp4' />
       </video>
       <div className='content'>
         <h1>
