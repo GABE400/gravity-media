@@ -12,7 +12,7 @@ const HeaderVideo = () => {
       </video>
       <div className='content'>
         <h1>
-          Gravity <span>Media</span>
+          Media <span>Company</span>
         </h1>
         <p>Welcome To Our Site.</p>
 
