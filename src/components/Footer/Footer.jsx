@@ -20,7 +20,7 @@ const Footer = () => {
               style={{ color: '#ffffff', marginRight: '2rem' }}
             />
             <div>
-              <p>Salamma Park.</p>
+              <p>Location</p>
               <h4>Lusaka, Zambia</h4>
             </div>
           </div>
@@ -30,7 +30,7 @@ const Footer = () => {
                 size={20}
                 style={{ color: '#ffffff', marginRight: '2rem' }}
               />
-              +260978690587 | +260965044842
+              +26097000000 | +26096000000
             </h4>
           </div>
           <div className='email'>
@@ -46,8 +46,8 @@ const Footer = () => {
         <div className='right'>
           <h4>About the company</h4>
           <p>
-            A media company that leads with greatness to all welcome to gravity
-            media
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.
           </p>
           <div className='social'>
             <FaFacebook

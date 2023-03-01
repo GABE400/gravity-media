@@ -20,8 +20,8 @@ const Services = () => {
           Our <span>Services</span>
         </h1>
         <p>
-          We work closely with experienced crew that are able to deliver an
-          excellent final product to our clients
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry.
         </p>
         <div className='content-box'>
           <div className='card'>
@@ -30,8 +30,8 @@ const Services = () => {
             </IconContext.Provider>
             <h2>TV Commercials</h2>
             <p>
-              We work closely with experienced crew that are able to deliver an
-              excellent final product to our clients
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry.
             </p>
           </div>
           <div className='card'>
@@ -40,8 +40,8 @@ const Services = () => {
             </IconContext.Provider>
             <h2>Documentaries</h2>
             <p>
-              We work closely with experienced crew that are able to deliver an
-              excellent final product to our clients
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry.
             </p>
           </div>
           <div className='card'>
@@ -50,8 +50,8 @@ const Services = () => {
             </IconContext.Provider>
             <h2>TV Shows</h2>
             <p>
-              We work closely with experienced crew that are able to deliver an
-              excellent final product to our clients
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry.
             </p>
           </div>
           <div className='card'>
@@ -60,8 +60,8 @@ const Services = () => {
             </IconContext.Provider>
             <h2>Animations</h2>
             <p>
-              We work closely with experienced crew that are able to deliver an
-              excellent final product to our clients
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry.
             </p>
           </div>
           <div className='card'>
@@ -70,8 +70,8 @@ const Services = () => {
             </IconContext.Provider>
             <h2>Infographics</h2>
             <p>
-              We work closely with experienced crew that are able to deliver an
-              excellent final product to our clients
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry.
             </p>
           </div>
           <div className='card'>
@@ -80,8 +80,8 @@ const Services = () => {
             </IconContext.Provider>
             <h2>Photography</h2>
             <p>
-              We work closely with experienced crew that are able to deliver an
-              excellent final product to our clients
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry.
             </p>
           </div>
           <div className='card'>
@@ -90,8 +90,8 @@ const Services = () => {
             </IconContext.Provider>
             <h2>Radio Production</h2>
             <p>
-              We work closely with experienced crew that are able to deliver an
-              excellent final product to our clients
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry.
             </p>
           </div>
           <div className='card'>
@@ -100,8 +100,8 @@ const Services = () => {
             </IconContext.Provider>
             <h2>Script Writing/ Copy Writing</h2>
             <p>
-              We work closely with experienced crew that are able to deliver an
-              excellent final product to our clients
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry.
             </p>
           </div>
           <div className='card'>
@@ -110,8 +110,8 @@ const Services = () => {
             </IconContext.Provider>
             <h2>Graphic Design</h2>
             <p>
-              We work closely with experienced crew that are able to deliver an
-              excellent final product to our clients
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry.
             </p>
           </div>
           <div className='card'>
@@ -120,8 +120,8 @@ const Services = () => {
             </IconContext.Provider>
             <h2>Social Media Digital Content</h2>
             <p>
-              We work closely with experienced crew that are able to deliver an
-              excellent final product to our clients
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry.
             </p>
           </div>
         </div>
